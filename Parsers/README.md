@@ -4,4 +4,4 @@ The site I chose for parsing uses IP bans if it detects consequent automated req
 
 The basic use case for TOR  in my parser is changing the IP address every 10 seconds (that is the maximal frequency of IP updates). As a result, the target server is unable to detect the parser and lets me through. 
 
-You can read more about various parsing approaches in my article (currently only in Russian): https://habr.com/ru/company/ods/blog/346632/
+You can read more about various parsing approaches in the article written by me and [Philipp Ulyankin](https://github.com/FUlyankin) (currently only in Russian): https://habr.com/ru/company/ods/blog/346632/
